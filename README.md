@@ -20,34 +20,22 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![mockup](https://github.com/bedeschiotavia/404-not-found-master/blob/main/mockuo404-notfound.png?raw=true)
 
-The challenge was to created a responsive 404 not found page following the sugestted design. I developed the page using simple HTML and CSS.
+The challenge was to create a responsive 404 not found page following the suggested design. I developed the page using simple HTML and CSS (Flexbox).
 
 ### Built With
-
-<!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
 - HTML
 - CSS
 
 ## Features
 
-<!-- List the features of your application or follow the template. Don't share the figma file here :) -->
 
 This page was created as a submission to a [DevChallenges](https://legacy.devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) challenge.
 
 
-## Acknowledgements
-
-<!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
-
-- [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
-- [Node.js](https://nodejs.org/)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
-
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- Linkedin [otavia-bedeschi](https://{www.linkedin.com/in/otavia-bedeschi/})
+- GitHub [@bedeschiotavia](https://{https://github.com/bedeschiotavia})
