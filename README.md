@@ -6,7 +6,7 @@
 
 <div>
   <h3>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://404-not-found-master-wheat.vercel.app/">
       Solution
     </a>
     <span> | </span>
@@ -15,16 +15,6 @@
     </a>
   </h3>
 </div>
-
-<!-- TABLE OF CONTENTS -->
-
-## Table of Contents
-
-- [Overview](#overview)
-  - [Built With](#built-with)
-- [Features](#features)
-- [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
 
 <!-- OVERVIEW -->
 
